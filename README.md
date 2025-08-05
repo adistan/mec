@@ -1,0 +1,2 @@
+# mec
+Minimal Ethical Code
