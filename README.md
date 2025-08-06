@@ -1,6 +1,6 @@
 # The Minimal Ethical Code (MEC) Initiative
 
-**Motto: "Ethics become real when they can be implemented."**
+**Motto: "Ethics becomes real when it can be implemented."**
 
 ## Vision: A Universal Standard for Trustworthy AI
 
