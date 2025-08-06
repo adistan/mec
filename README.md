@@ -14,7 +14,7 @@ This repository hosts the official documents and serves as the central hub for t
 *   **[Read the Full Code (EN)](/documents/CEM-v3.2-EN.pdf)** - For the complete, detailed specifications and appendices.
 *   **[See the Strategic Distribution List](/documents/Distribution-List-v1.0.pdf)** - A list of the organizations to which this proposal has been submitted.
 
-*(For Romanian versions, please see the `/documents` folder.)*
+*(For other language versions, please see the `/documents` folder.)*
 
 ## How to Contribute
 
