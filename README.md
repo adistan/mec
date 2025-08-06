@@ -20,6 +20,22 @@ This repository hosts the official documents and serves as the central hub for t
 
 This is an open and collaborative effort. Every perspective is valuable. The primary forum for shaping the future of the MEC is our **Discussions** section.
 
+1. Welcome & AnnouncementsDiscussions
+A place to introduce yourself and to read important updates about the MEC Initiative. Please read the pinned posts before contributing.
+
+2. General DiscussionDiscussions
+For general conversations about the Minimal Ethical Code (MEC), AI ethics, and global governance.
+
+3. Feedback & Proposals
+Do you have a suggestion to improve the MEC? Propose concrete amendments here. This is the core engine for evolving the MEC.
+
+4. Translations
+A space to coordinate community efforts to translate the MEC into various languages.
+
+5. Q&A
+Have a question about a specific article or concept? Ask it here. The community is here to help.
+
+
 ### **[Join the Global Debate in the Discussions Tab](https://github.com/adistan/mec/discussions)**
 
 ---
