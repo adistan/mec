@@ -22,8 +22,6 @@ This is an open and collaborative effort. Every perspective is valuable. The pri
 
 ### **[Join the Global Debate in the Discussions Tab](https://github.com/adistan/mec/discussions)**
 
-*(Vă rog să înlocuiți `#` cu link-ul direct către tab-ul "Discussions" al repository-ului dumneavoastră, după ce îl activați)*
-
 ---
 
 ### Software Implementation (SDK)
