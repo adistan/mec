@@ -1,44 +1,16 @@
-# The Minimal Ethical Code (MEC) Initiative
-
 **Motto: "Ethics becomes real when it can be implemented."**
 
-## Vision: A Universal Standard for Trustworthy AI
+# This Project Has Moved
 
-The Minimal Ethical Code (MEC) is a proposal for a universal technical and legal standard for the governance of Artificial Intelligence. Its mission is to build a shared global infrastructure of safety, accountability, and transparency.
+**The "Minimal Ethical Code (MEC)" Protocol has been moved to its official organization on GitHub.**
 
-This repository hosts the official documents and serves as the central hub for the global conversation around the MEC Initiative.
+All specifications, documentation, and discussions are now located at the new repository:
 
-## Core Documents
+## -> [https://github.com/meg-initiative/meg](https://github.com/meg-initiative/meg)
 
-*   **[Read the White Paper (EN)](/documents/WhitePaper-v3.2-EN.pdf)** - For a high-level, strategic overview.
-*   **[Read the Full Code (EN)](/documents/CEM-v3.2-EN.pdf)** - For the complete, detailed specifications and appendices.
-*   **[See the Strategic Distribution List](/documents/Distribution-List-v1.0.pdf)** - A list of the organizations to which this proposal has been submitted.
+This repository (`adistan/mec`) is now archived and will no longer be updated. Please update your bookmarks and direct all future contributions, issues, and discussions to the new location.
 
-*(For other language versions, please see the `/documents` folder.)*
-
-## How to Contribute
-
-This is an open and collaborative effort. Every perspective is valuable. The primary forum for shaping the future of the MEC is our **Discussions** section.
-
-1. Welcome & Announcements - A place to introduce yourself and to read important updates about the MEC Initiative. Please read the pinned posts before contributing.
-
-3. General Discussion - For general conversations about the Minimal Ethical Code (MEC), AI ethics, and global governance.
-
-4. Feedback & Proposals - Do you have a suggestion to improve the MEC? Propose concrete amendments here. This is the core engine for evolving the MEC.
-
-5. Translations - A space to coordinate community efforts to translate the MEC into various languages.
-
-6. Q&A - Have a question about a specific article or concept? Ask it here. The community is here to help.
-
-### **[Join the Global Debate in the Discussions Tab](https://github.com/adistan/mec/discussions)**
-
----
-
-### Software Implementation (SDK)
-
-The technical implementation of the MEC is being developed in a separate repository.
-
-*   **[Visit the MEC-SDK Repository](https://github.com/adistan/mec-sdk)**
+Thank you for your interest in MEG.
 
 ---
 
